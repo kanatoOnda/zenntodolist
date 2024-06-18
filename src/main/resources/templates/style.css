@@ -24,7 +24,7 @@ button#remove {
   border-style: none;
 }
 button#priority {
-  background-color: olivedrab;
+  background-color: rgb(0, 0, 0);
 }
 button#remove {
   background-color: firebrick;
